@@ -1,4 +1,4 @@
-# CSCI-2041 - Advanced Programming Principles in Ocaml
+# CSCI 2041 - Advanced Programming Principles in Ocaml
 
 Ocaml is a functional programming language used to introduce a higher-level approach to programming over complex data.  Their representation is rather abstract when compared to other known languages (C, Java, Python).  Concepts taught in this course were recursion, high-order thinking, infinite data objects, search-based programming, and modularity.
 
